@@ -110,8 +110,8 @@ id: Serbia excluding Kosovo
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Serbia//
-markerFolder: ./Serbia//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Serbia]  
