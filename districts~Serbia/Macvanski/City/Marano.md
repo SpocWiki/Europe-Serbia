@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.75] 
-[geo-lat::44.73] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.75] 
+[has_place_latitude::44.73] 
 [name::Marano] 
 State ::  
 Country :: [[../../../../Italy]]  

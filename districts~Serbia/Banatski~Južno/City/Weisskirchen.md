@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.42] 
-[geo-lat::44.9] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.42] 
+[has_place_latitude::44.9] 
 [name::Weisskirchen] 
 State ::  
 Country :: [[../../../../Yugoslavia]]  

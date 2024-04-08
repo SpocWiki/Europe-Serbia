@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.73] 
-[geo-lat::44.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.73] 
+[has_place_latitude::44.75] 
 [name::Sabac] 
 State ::  
 Country :: [[../../../../Yugoslavia]]  

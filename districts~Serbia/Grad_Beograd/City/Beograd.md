@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::20.48] 
-[geo-lat::44.82] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.48] 
+[has_place_latitude::44.82] 
 [name::Beograd] 
 State ::  
 Country :: [[../../Serbia]]  

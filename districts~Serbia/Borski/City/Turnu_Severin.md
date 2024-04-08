@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::22.67] 
-[geo-lat::44.63] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.67] 
+[has_place_latitude::44.63] 
 [name::Turnu Severin] 
 State ::  
 Country :: [[Romania]]  

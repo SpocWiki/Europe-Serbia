@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.98] 
-[geo-lat::45.68] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.98] 
+[has_place_latitude::45.68] 
 [name::Apatin] 
 State ::  
 Country :: [[../../../../Yugoslavia]]  

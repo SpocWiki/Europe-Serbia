@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::21.3] 
-[geo-lat::45.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::21.3] 
+[has_place_latitude::45.1] 
 [name::Werschetz] 
 State ::  
 Country :: [[../../../../Yugoslavia]]  
