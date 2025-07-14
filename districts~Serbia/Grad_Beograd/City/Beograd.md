@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Beograd.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Grad_Beograd\CityBeograd.public.md) 
+### [Beograd](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Beograd.md) 
 
-### [Beograd.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Grad_Beograd\CityBeograd.internal.md) 
+### [Beograd.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Beograd.public.md) 
 
-### [Beograd.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Grad_Beograd\CityBeograd.protect.md) 
+### [Beograd.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Beograd.internal.md) 
 
-### [Beograd.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Grad_Beograd\CityBeograd.private.md) 
+### [Beograd.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Beograd.protect.md) 
 
-### [Beograd.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Grad_Beograd\CityBeograd.personal.md) 
+### [Beograd.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Beograd.private.md) 
 
-### [Beograd.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Grad_Beograd\CityBeograd.secret.md)
+### [Beograd.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Beograd.personal.md) 
+
+### [Beograd.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Beograd.secret.md)
 

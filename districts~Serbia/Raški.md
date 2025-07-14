@@ -41,15 +41,17 @@ markerFolder: ./Raški/
 
 ## Confidential Links & Embeds: 
 
-### [Raški.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaRaški.public.md) 
+### [Raški](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški.md) 
 
-### [Raški.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaRaški.internal.md) 
+### [Raški.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški.public.md) 
 
-### [Raški.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaRaški.protect.md) 
+### [Raški.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški.internal.md) 
 
-### [Raški.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaRaški.private.md) 
+### [Raški.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški.protect.md) 
 
-### [Raški.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaRaški.personal.md) 
+### [Raški.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški.private.md) 
 
-### [Raški.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaRaški.secret.md)
+### [Raški.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški.personal.md) 
+
+### [Raški.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Apatin.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CityApatin.public.md) 
+### [Apatin](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Apatin.md) 
 
-### [Apatin.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CityApatin.internal.md) 
+### [Apatin.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Apatin.public.md) 
 
-### [Apatin.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CityApatin.protect.md) 
+### [Apatin.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Apatin.internal.md) 
 
-### [Apatin.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CityApatin.private.md) 
+### [Apatin.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Apatin.protect.md) 
 
-### [Apatin.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CityApatin.personal.md) 
+### [Apatin.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Apatin.private.md) 
 
-### [Apatin.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CityApatin.secret.md)
+### [Apatin.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Apatin.personal.md) 
+
+### [Apatin.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Apatin.secret.md)
 

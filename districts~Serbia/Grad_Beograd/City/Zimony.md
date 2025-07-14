@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zimony.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Grad_Beograd\CityZimony.public.md) 
+### [Zimony](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Zimony.md) 
 
-### [Zimony.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Grad_Beograd\CityZimony.internal.md) 
+### [Zimony.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Zimony.public.md) 
 
-### [Zimony.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Grad_Beograd\CityZimony.protect.md) 
+### [Zimony.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Zimony.internal.md) 
 
-### [Zimony.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Grad_Beograd\CityZimony.private.md) 
+### [Zimony.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Zimony.protect.md) 
 
-### [Zimony.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Grad_Beograd\CityZimony.personal.md) 
+### [Zimony.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Zimony.private.md) 
 
-### [Zimony.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Grad_Beograd\CityZimony.secret.md)
+### [Zimony.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Zimony.personal.md) 
+
+### [Zimony.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd/City/Zimony.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Srednje-Banatski/
 
 ## Confidential Links & Embeds: 
 
-### [Srednje-Banatski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSrednje-Banatski.public.md) 
+### [Srednje-Banatski](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Srednje-Banatski.md) 
 
-### [Srednje-Banatski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSrednje-Banatski.internal.md) 
+### [Srednje-Banatski.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Srednje-Banatski.public.md) 
 
-### [Srednje-Banatski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSrednje-Banatski.protect.md) 
+### [Srednje-Banatski.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Srednje-Banatski.internal.md) 
 
-### [Srednje-Banatski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSrednje-Banatski.private.md) 
+### [Srednje-Banatski.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Srednje-Banatski.protect.md) 
 
-### [Srednje-Banatski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSrednje-Banatski.personal.md) 
+### [Srednje-Banatski.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Srednje-Banatski.private.md) 
 
-### [Srednje-Banatski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSrednje-Banatski.secret.md)
+### [Srednje-Banatski.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Srednje-Banatski.personal.md) 
+
+### [Srednje-Banatski.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Srednje-Banatski.secret.md)
 

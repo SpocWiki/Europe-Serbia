@@ -41,15 +41,17 @@ markerFolder: ./Grad_Beograd/
 
 ## Confidential Links & Embeds: 
 
-### [Grad_Beograd.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaGrad_Beograd.public.md) 
+### [Grad_Beograd](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd.md) 
 
-### [Grad_Beograd.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaGrad_Beograd.internal.md) 
+### [Grad_Beograd.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd.public.md) 
 
-### [Grad_Beograd.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaGrad_Beograd.protect.md) 
+### [Grad_Beograd.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd.internal.md) 
 
-### [Grad_Beograd.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaGrad_Beograd.private.md) 
+### [Grad_Beograd.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd.protect.md) 
 
-### [Grad_Beograd.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaGrad_Beograd.personal.md) 
+### [Grad_Beograd.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd.private.md) 
 
-### [Grad_Beograd.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaGrad_Beograd.secret.md)
+### [Grad_Beograd.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd.personal.md) 
+
+### [Grad_Beograd.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Grad_Beograd.secret.md)
 

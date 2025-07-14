@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Petrovgrad.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CityPetrovgrad.public.md) 
+### [Petrovgrad](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Petrovgrad.md) 
 
-### [Petrovgrad.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CityPetrovgrad.internal.md) 
+### [Petrovgrad.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Petrovgrad.public.md) 
 
-### [Petrovgrad.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CityPetrovgrad.protect.md) 
+### [Petrovgrad.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Petrovgrad.internal.md) 
 
-### [Petrovgrad.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CityPetrovgrad.private.md) 
+### [Petrovgrad.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Petrovgrad.protect.md) 
 
-### [Petrovgrad.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CityPetrovgrad.personal.md) 
+### [Petrovgrad.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Petrovgrad.private.md) 
 
-### [Petrovgrad.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CityPetrovgrad.secret.md)
+### [Petrovgrad.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Petrovgrad.personal.md) 
+
+### [Petrovgrad.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Petrovgrad.secret.md)
 

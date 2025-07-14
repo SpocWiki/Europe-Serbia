@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Knjazevac.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Zajecarski\CityKnjazevac.public.md) 
+### [Knjazevac](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.md) 
 
-### [Knjazevac.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Zajecarski\CityKnjazevac.internal.md) 
+### [Knjazevac.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.public.md) 
 
-### [Knjazevac.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Zajecarski\CityKnjazevac.protect.md) 
+### [Knjazevac.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.internal.md) 
 
-### [Knjazevac.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Zajecarski\CityKnjazevac.private.md) 
+### [Knjazevac.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.protect.md) 
 
-### [Knjazevac.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Zajecarski\CityKnjazevac.personal.md) 
+### [Knjazevac.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.private.md) 
 
-### [Knjazevac.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Zajecarski\CityKnjazevac.secret.md)
+### [Knjazevac.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.personal.md) 
+
+### [Knjazevac.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.secret.md)
 

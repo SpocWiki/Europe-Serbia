@@ -41,15 +41,17 @@ markerFolder: ./Pomoravski/
 
 ## Confidential Links & Embeds: 
 
-### [Pomoravski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPomoravski.public.md) 
+### [Pomoravski](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.md) 
 
-### [Pomoravski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPomoravski.internal.md) 
+### [Pomoravski.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.public.md) 
 
-### [Pomoravski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPomoravski.protect.md) 
+### [Pomoravski.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.internal.md) 
 
-### [Pomoravski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPomoravski.private.md) 
+### [Pomoravski.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.protect.md) 
 
-### [Pomoravski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPomoravski.personal.md) 
+### [Pomoravski.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.private.md) 
 
-### [Pomoravski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPomoravski.secret.md)
+### [Pomoravski.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.personal.md) 
+
+### [Pomoravski.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sombor.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CitySombor.public.md) 
+### [Sombor](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Sombor.md) 
 
-### [Sombor.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CitySombor.internal.md) 
+### [Sombor.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Sombor.public.md) 
 
-### [Sombor.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CitySombor.protect.md) 
+### [Sombor.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Sombor.internal.md) 
 
-### [Sombor.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CitySombor.private.md) 
+### [Sombor.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Sombor.protect.md) 
 
-### [Sombor.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CitySombor.personal.md) 
+### [Sombor.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Sombor.private.md) 
 
-### [Sombor.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CitySombor.secret.md)
+### [Sombor.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Sombor.personal.md) 
+
+### [Sombor.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Zapadno/City/Sombor.secret.md)
 

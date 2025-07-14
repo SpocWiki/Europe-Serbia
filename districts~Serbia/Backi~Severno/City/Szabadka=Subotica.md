@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Szabadka=Subotica.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySzabadka=Subotica.public.md) 
+### [Szabadka=Subotica](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.md) 
 
-### [Szabadka=Subotica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySzabadka=Subotica.internal.md) 
+### [Szabadka=Subotica.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.public.md) 
 
-### [Szabadka=Subotica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySzabadka=Subotica.protect.md) 
+### [Szabadka=Subotica.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.internal.md) 
 
-### [Szabadka=Subotica.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySzabadka=Subotica.private.md) 
+### [Szabadka=Subotica.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.protect.md) 
 
-### [Szabadka=Subotica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySzabadka=Subotica.personal.md) 
+### [Szabadka=Subotica.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.private.md) 
 
-### [Szabadka=Subotica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySzabadka=Subotica.secret.md)
+### [Szabadka=Subotica.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.personal.md) 
+
+### [Szabadka=Subotica.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.secret.md)
 

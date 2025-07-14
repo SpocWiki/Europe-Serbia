@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~South\SerbiaLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~South\SerbiaLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~South\SerbiaLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~South\SerbiaLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~South\SerbiaLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~South\SerbiaLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/License.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Smedenova=Semendria.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CitySmedenova=Semendria.public.md) 
+### [Smedenova=Semendria](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Smedenova=Semendria.md) 
 
-### [Smedenova=Semendria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CitySmedenova=Semendria.internal.md) 
+### [Smedenova=Semendria.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Smedenova=Semendria.public.md) 
 
-### [Smedenova=Semendria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CitySmedenova=Semendria.protect.md) 
+### [Smedenova=Semendria.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Smedenova=Semendria.internal.md) 
 
-### [Smedenova=Semendria.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CitySmedenova=Semendria.private.md) 
+### [Smedenova=Semendria.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Smedenova=Semendria.protect.md) 
 
-### [Smedenova=Semendria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CitySmedenova=Semendria.personal.md) 
+### [Smedenova=Semendria.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Smedenova=Semendria.private.md) 
 
-### [Smedenova=Semendria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CitySmedenova=Semendria.secret.md)
+### [Smedenova=Semendria.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Smedenova=Semendria.personal.md) 
+
+### [Smedenova=Semendria.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Smedenova=Semendria.secret.md)
 

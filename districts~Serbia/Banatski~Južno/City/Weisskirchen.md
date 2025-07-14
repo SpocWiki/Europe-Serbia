@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weisskirchen.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWeisskirchen.public.md) 
+### [Weisskirchen](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.md) 
 
-### [Weisskirchen.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWeisskirchen.internal.md) 
+### [Weisskirchen.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.public.md) 
 
-### [Weisskirchen.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWeisskirchen.protect.md) 
+### [Weisskirchen.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.internal.md) 
 
-### [Weisskirchen.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWeisskirchen.private.md) 
+### [Weisskirchen.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.protect.md) 
 
-### [Weisskirchen.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWeisskirchen.personal.md) 
+### [Weisskirchen.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.private.md) 
 
-### [Weisskirchen.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWeisskirchen.secret.md)
+### [Weisskirchen.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.personal.md) 
+
+### [Weisskirchen.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.secret.md)
 

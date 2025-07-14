@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marano.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Macvanski\CityMarano.public.md) 
+### [Marano](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski/City/Marano.md) 
 
-### [Marano.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Macvanski\CityMarano.internal.md) 
+### [Marano.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski/City/Marano.public.md) 
 
-### [Marano.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Macvanski\CityMarano.protect.md) 
+### [Marano.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski/City/Marano.internal.md) 
 
-### [Marano.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Macvanski\CityMarano.private.md) 
+### [Marano.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski/City/Marano.protect.md) 
 
-### [Marano.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Macvanski\CityMarano.personal.md) 
+### [Marano.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski/City/Marano.private.md) 
 
-### [Marano.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Macvanski\CityMarano.secret.md)
+### [Marano.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski/City/Marano.personal.md) 
+
+### [Marano.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski/City/Marano.secret.md)
 

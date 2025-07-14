@@ -41,15 +41,17 @@ markerFolder: ./Moravicki/
 
 ## Confidential Links & Embeds: 
 
-### [Moravicki.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaMoravicki.public.md) 
+### [Moravicki](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Moravicki.md) 
 
-### [Moravicki.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaMoravicki.internal.md) 
+### [Moravicki.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Moravicki.public.md) 
 
-### [Moravicki.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaMoravicki.protect.md) 
+### [Moravicki.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Moravicki.internal.md) 
 
-### [Moravicki.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaMoravicki.private.md) 
+### [Moravicki.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Moravicki.protect.md) 
 
-### [Moravicki.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaMoravicki.personal.md) 
+### [Moravicki.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Moravicki.private.md) 
 
-### [Moravicki.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaMoravicki.secret.md)
+### [Moravicki.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Moravicki.personal.md) 
+
+### [Moravicki.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Moravicki.secret.md)
 

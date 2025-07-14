@@ -41,15 +41,17 @@ markerFolder: ./Nišavski/
 
 ## Confidential Links & Embeds: 
 
-### [Nišavski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaNišavski.public.md) 
+### [Nišavski](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Nišavski.md) 
 
-### [Nišavski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaNišavski.internal.md) 
+### [Nišavski.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Nišavski.public.md) 
 
-### [Nišavski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaNišavski.protect.md) 
+### [Nišavski.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Nišavski.internal.md) 
 
-### [Nišavski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaNišavski.private.md) 
+### [Nišavski.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Nišavski.protect.md) 
 
-### [Nišavski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaNišavski.personal.md) 
+### [Nišavski.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Nišavski.private.md) 
 
-### [Nišavski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaNišavski.secret.md)
+### [Nišavski.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Nišavski.personal.md) 
+
+### [Nišavski.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Nišavski.secret.md)
 

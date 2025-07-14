@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Subotica.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySubotica.public.md) 
+### [Subotica](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Subotica.md) 
 
-### [Subotica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySubotica.internal.md) 
+### [Subotica.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Subotica.public.md) 
 
-### [Subotica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySubotica.protect.md) 
+### [Subotica.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Subotica.internal.md) 
 
-### [Subotica.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySubotica.private.md) 
+### [Subotica.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Subotica.protect.md) 
 
-### [Subotica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySubotica.personal.md) 
+### [Subotica.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Subotica.private.md) 
 
-### [Subotica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySubotica.secret.md)
+### [Subotica.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Subotica.personal.md) 
+
+### [Subotica.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Subotica.secret.md)
 

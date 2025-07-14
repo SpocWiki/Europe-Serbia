@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bela_Crkva.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityBela_Crkva.public.md) 
+### [Bela_Crkva](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.md) 
 
-### [Bela_Crkva.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityBela_Crkva.internal.md) 
+### [Bela_Crkva.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.public.md) 
 
-### [Bela_Crkva.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityBela_Crkva.protect.md) 
+### [Bela_Crkva.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.internal.md) 
 
-### [Bela_Crkva.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityBela_Crkva.private.md) 
+### [Bela_Crkva.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.protect.md) 
 
-### [Bela_Crkva.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityBela_Crkva.personal.md) 
+### [Bela_Crkva.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.private.md) 
 
-### [Bela_Crkva.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityBela_Crkva.secret.md)
+### [Bela_Crkva.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.personal.md) 
+
+### [Bela_Crkva.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.secret.md)
 

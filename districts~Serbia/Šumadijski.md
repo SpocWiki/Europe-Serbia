@@ -41,15 +41,17 @@ markerFolder: ./Šumadijski/
 
 ## Confidential Links & Embeds: 
 
-### [Šumadijski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaŠumadijski.public.md) 
+### [Šumadijski](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski.md) 
 
-### [Šumadijski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaŠumadijski.internal.md) 
+### [Šumadijski.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski.public.md) 
 
-### [Šumadijski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaŠumadijski.protect.md) 
+### [Šumadijski.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski.internal.md) 
 
-### [Šumadijski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaŠumadijski.private.md) 
+### [Šumadijski.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski.protect.md) 
 
-### [Šumadijski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaŠumadijski.personal.md) 
+### [Šumadijski.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski.private.md) 
 
-### [Šumadijski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaŠumadijski.secret.md)
+### [Šumadijski.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski.personal.md) 
+
+### [Šumadijski.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski.secret.md)
 

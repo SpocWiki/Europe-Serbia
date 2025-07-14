@@ -41,15 +41,17 @@ markerFolder: ./Macvanski/
 
 ## Confidential Links & Embeds: 
 
-### [Macvanski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaMacvanski.public.md) 
+### [Macvanski](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski.md) 
 
-### [Macvanski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaMacvanski.internal.md) 
+### [Macvanski.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski.public.md) 
 
-### [Macvanski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaMacvanski.protect.md) 
+### [Macvanski.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski.internal.md) 
 
-### [Macvanski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaMacvanski.private.md) 
+### [Macvanski.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski.protect.md) 
 
-### [Macvanski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaMacvanski.personal.md) 
+### [Macvanski.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski.private.md) 
 
-### [Macvanski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaMacvanski.secret.md)
+### [Macvanski.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski.personal.md) 
+
+### [Macvanski.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Macvanski.secret.md)
 

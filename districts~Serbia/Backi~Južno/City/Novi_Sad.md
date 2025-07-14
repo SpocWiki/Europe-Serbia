@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Novi_Sad.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Južno\CityNovi_Sad.public.md) 
+### [Novi_Sad](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Novi_Sad.md) 
 
-### [Novi_Sad.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Južno\CityNovi_Sad.internal.md) 
+### [Novi_Sad.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Novi_Sad.public.md) 
 
-### [Novi_Sad.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Južno\CityNovi_Sad.protect.md) 
+### [Novi_Sad.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Novi_Sad.internal.md) 
 
-### [Novi_Sad.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Južno\CityNovi_Sad.private.md) 
+### [Novi_Sad.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Novi_Sad.protect.md) 
 
-### [Novi_Sad.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Južno\CityNovi_Sad.personal.md) 
+### [Novi_Sad.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Novi_Sad.private.md) 
 
-### [Novi_Sad.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Južno\CityNovi_Sad.secret.md)
+### [Novi_Sad.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Novi_Sad.personal.md) 
+
+### [Novi_Sad.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Novi_Sad.secret.md)
 

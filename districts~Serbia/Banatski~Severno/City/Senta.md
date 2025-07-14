@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Senta.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CitySenta.public.md) 
+### [Senta](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.md) 
 
-### [Senta.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CitySenta.internal.md) 
+### [Senta.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.public.md) 
 
-### [Senta.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CitySenta.protect.md) 
+### [Senta.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.internal.md) 
 
-### [Senta.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CitySenta.private.md) 
+### [Senta.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.protect.md) 
 
-### [Senta.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CitySenta.personal.md) 
+### [Senta.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.private.md) 
 
-### [Senta.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CitySenta.secret.md)
+### [Senta.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.personal.md) 
+
+### [Senta.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.secret.md)
 

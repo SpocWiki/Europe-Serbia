@@ -41,15 +41,17 @@ markerFolder: ./Zlatiborski/
 
 ## Confidential Links & Embeds: 
 
-### [Zlatiborski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZlatiborski.public.md) 
+### [Zlatiborski](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zlatiborski.md) 
 
-### [Zlatiborski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZlatiborski.internal.md) 
+### [Zlatiborski.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zlatiborski.public.md) 
 
-### [Zlatiborski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZlatiborski.protect.md) 
+### [Zlatiborski.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zlatiborski.internal.md) 
 
-### [Zlatiborski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZlatiborski.private.md) 
+### [Zlatiborski.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zlatiborski.protect.md) 
 
-### [Zlatiborski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZlatiborski.personal.md) 
+### [Zlatiborski.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zlatiborski.private.md) 
 
-### [Zlatiborski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZlatiborski.secret.md)
+### [Zlatiborski.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zlatiborski.personal.md) 
+
+### [Zlatiborski.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zlatiborski.secret.md)
 
