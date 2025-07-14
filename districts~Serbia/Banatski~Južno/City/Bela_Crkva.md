@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Bela_Crkva|Bela_Crkva]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Bela_Crkva.public|Bela_Crkva.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Bela_Crkva.internal|Bela_Crkva.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Bela_Crkva.protect|Bela_Crkva.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Bela_Crkva.private|Bela_Crkva.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Bela_Crkva.personal|Bela_Crkva.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Bela_Crkva.secret|Bela_Crkva.secret]] 
+
+### [Bela_Crkva.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityBela_Crkva.public.md) 
+
+### [Bela_Crkva.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityBela_Crkva.internal.md) 
+
+### [Bela_Crkva.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityBela_Crkva.protect.md) 
+
+### [Bela_Crkva.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityBela_Crkva.private.md) 
+
+### [Bela_Crkva.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityBela_Crkva.personal.md) 
+
+### [Bela_Crkva.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityBela_Crkva.secret.md)
+

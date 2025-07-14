@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Sabac|Sabac]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Sabac.public|Sabac.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Sabac.internal|Sabac.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Sabac.protect|Sabac.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Sabac.private|Sabac.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Sabac.personal|Sabac.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Sabac.secret|Sabac.secret]] 
+
+### [Sabac.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Macvanski\CitySabac.public.md) 
+
+### [Sabac.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Macvanski\CitySabac.internal.md) 
+
+### [Sabac.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Macvanski\CitySabac.protect.md) 
+
+### [Sabac.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Macvanski\CitySabac.private.md) 
+
+### [Sabac.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Macvanski\CitySabac.personal.md) 
+
+### [Sabac.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Macvanski\CitySabac.secret.md)
+

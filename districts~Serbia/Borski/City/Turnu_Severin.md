@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Romania/City/Turnu_Severin|Turnu_Severin]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Romania/City/Turnu_Severin.public|Turnu_Severin.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Romania/City/Turnu_Severin.internal|Turnu_Severin.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Romania/City/Turnu_Severin.protect|Turnu_Severin.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Romania/City/Turnu_Severin.private|Turnu_Severin.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Romania/City/Turnu_Severin.personal|Turnu_Severin.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Romania/City/Turnu_Severin.secret|Turnu_Severin.secret]] 
+
+### [Turnu_Severin.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Borski\CityTurnu_Severin.public.md) 
+
+### [Turnu_Severin.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Borski\CityTurnu_Severin.internal.md) 
+
+### [Turnu_Severin.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Borski\CityTurnu_Severin.protect.md) 
+
+### [Turnu_Severin.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Borski\CityTurnu_Severin.private.md) 
+
+### [Turnu_Severin.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Borski\CityTurnu_Severin.personal.md) 
+
+### [Turnu_Severin.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Borski\CityTurnu_Severin.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Grad_Beograd/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Grad_Beograd|Grad_Beograd]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Grad_Beograd.public|Grad_Beograd.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Grad_Beograd.internal|Grad_Beograd.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Grad_Beograd.protect|Grad_Beograd.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Grad_Beograd.private|Grad_Beograd.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Grad_Beograd.personal|Grad_Beograd.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Grad_Beograd.secret|Grad_Beograd.secret]] 
+
+### [Grad_Beograd.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaGrad_Beograd.public.md) 
+
+### [Grad_Beograd.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaGrad_Beograd.internal.md) 
+
+### [Grad_Beograd.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaGrad_Beograd.protect.md) 
+
+### [Grad_Beograd.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaGrad_Beograd.private.md) 
+
+### [Grad_Beograd.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaGrad_Beograd.personal.md) 
+
+### [Grad_Beograd.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaGrad_Beograd.secret.md)
 

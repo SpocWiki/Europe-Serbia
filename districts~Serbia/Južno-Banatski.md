@@ -40,11 +40,16 @@ markerFolder: ./Južno-Banatski/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Južno-Banatski|Južno-Banatski]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Južno-Banatski.public|Južno-Banatski.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Južno-Banatski.internal|Južno-Banatski.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Južno-Banatski.protect|Južno-Banatski.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Južno-Banatski.private|Južno-Banatski.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Južno-Banatski.personal|Južno-Banatski.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Južno-Banatski.secret|Južno-Banatski.secret]] 
+
+### [Južno-Banatski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaJužno-Banatski.public.md) 
+
+### [Južno-Banatski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaJužno-Banatski.internal.md) 
+
+### [Južno-Banatski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaJužno-Banatski.protect.md) 
+
+### [Južno-Banatski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaJužno-Banatski.private.md) 
+
+### [Južno-Banatski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaJužno-Banatski.personal.md) 
+
+### [Južno-Banatski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaJužno-Banatski.secret.md)
 

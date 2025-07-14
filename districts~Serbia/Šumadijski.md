@@ -40,11 +40,16 @@ markerFolder: ./Šumadijski/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Šumadijski|Šumadijski]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Šumadijski.public|Šumadijski.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Šumadijski.internal|Šumadijski.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Šumadijski.protect|Šumadijski.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Šumadijski.private|Šumadijski.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Šumadijski.personal|Šumadijski.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Šumadijski.secret|Šumadijski.secret]] 
+
+### [Šumadijski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaŠumadijski.public.md) 
+
+### [Šumadijski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaŠumadijski.internal.md) 
+
+### [Šumadijski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaŠumadijski.protect.md) 
+
+### [Šumadijski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaŠumadijski.private.md) 
+
+### [Šumadijski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaŠumadijski.personal.md) 
+
+### [Šumadijski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaŠumadijski.secret.md)
 

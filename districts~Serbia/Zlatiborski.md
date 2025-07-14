@@ -40,11 +40,16 @@ markerFolder: ./Zlatiborski/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Zlatiborski|Zlatiborski]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Zlatiborski.public|Zlatiborski.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Zlatiborski.internal|Zlatiborski.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Zlatiborski.protect|Zlatiborski.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Zlatiborski.private|Zlatiborski.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Zlatiborski.personal|Zlatiborski.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Zlatiborski.secret|Zlatiborski.secret]] 
+
+### [Zlatiborski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZlatiborski.public.md) 
+
+### [Zlatiborski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZlatiborski.internal.md) 
+
+### [Zlatiborski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZlatiborski.protect.md) 
+
+### [Zlatiborski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZlatiborski.private.md) 
+
+### [Zlatiborski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZlatiborski.personal.md) 
+
+### [Zlatiborski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZlatiborski.secret.md)
 

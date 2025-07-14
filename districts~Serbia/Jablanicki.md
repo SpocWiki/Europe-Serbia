@@ -40,11 +40,16 @@ markerFolder: ./Jablanicki/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Jablanicki|Jablanicki]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Jablanicki.public|Jablanicki.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Jablanicki.internal|Jablanicki.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Jablanicki.protect|Jablanicki.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Jablanicki.private|Jablanicki.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Jablanicki.personal|Jablanicki.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Jablanicki.secret|Jablanicki.secret]] 
+
+### [Jablanicki.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaJablanicki.public.md) 
+
+### [Jablanicki.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaJablanicki.internal.md) 
+
+### [Jablanicki.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaJablanicki.protect.md) 
+
+### [Jablanicki.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaJablanicki.private.md) 
+
+### [Jablanicki.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaJablanicki.personal.md) 
+
+### [Jablanicki.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaJablanicki.secret.md)
 

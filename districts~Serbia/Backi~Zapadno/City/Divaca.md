@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Italy/City/Divaca|Divaca]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Italy/City/Divaca.public|Divaca.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Italy/City/Divaca.internal|Divaca.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Italy/City/Divaca.protect|Divaca.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Italy/City/Divaca.private|Divaca.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Italy/City/Divaca.personal|Divaca.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Italy/City/Divaca.secret|Divaca.secret]] 
+
+### [Divaca.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CityDivaca.public.md) 
+
+### [Divaca.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CityDivaca.internal.md) 
+
+### [Divaca.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CityDivaca.protect.md) 
+
+### [Divaca.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CityDivaca.private.md) 
+
+### [Divaca.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CityDivaca.personal.md) 
+
+### [Divaca.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Zapadno\CityDivaca.secret.md)
+

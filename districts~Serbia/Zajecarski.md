@@ -40,11 +40,16 @@ markerFolder: ./Zajecarski/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Zajecarski|Zajecarski]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Zajecarski.public|Zajecarski.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Zajecarski.internal|Zajecarski.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Zajecarski.protect|Zajecarski.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Zajecarski.private|Zajecarski.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Zajecarski.personal|Zajecarski.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Zajecarski.secret|Zajecarski.secret]] 
+
+### [Zajecarski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZajecarski.public.md) 
+
+### [Zajecarski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZajecarski.internal.md) 
+
+### [Zajecarski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZajecarski.protect.md) 
+
+### [Zajecarski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZajecarski.private.md) 
+
+### [Zajecarski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZajecarski.personal.md) 
+
+### [Zajecarski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaZajecarski.secret.md)
 

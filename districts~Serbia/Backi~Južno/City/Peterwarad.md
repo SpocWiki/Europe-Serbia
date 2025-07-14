@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Peterwarad|Peterwarad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Peterwarad.public|Peterwarad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Peterwarad.internal|Peterwarad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Peterwarad.protect|Peterwarad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Peterwarad.private|Peterwarad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Peterwarad.personal|Peterwarad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Peterwarad.secret|Peterwarad.secret]] 
+
+### [Peterwarad.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Južno\CityPeterwarad.public.md) 
+
+### [Peterwarad.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Južno\CityPeterwarad.internal.md) 
+
+### [Peterwarad.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Južno\CityPeterwarad.protect.md) 
+
+### [Peterwarad.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Južno\CityPeterwarad.private.md) 
+
+### [Peterwarad.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Južno\CityPeterwarad.personal.md) 
+
+### [Peterwarad.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Južno\CityPeterwarad.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Pcinjski/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Pcinjski|Pcinjski]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Pcinjski.public|Pcinjski.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Pcinjski.internal|Pcinjski.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Pcinjski.protect|Pcinjski.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Pcinjski.private|Pcinjski.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Pcinjski.personal|Pcinjski.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Pcinjski.secret|Pcinjski.secret]] 
+
+### [Pcinjski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPcinjski.public.md) 
+
+### [Pcinjski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPcinjski.internal.md) 
+
+### [Pcinjski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPcinjski.protect.md) 
+
+### [Pcinjski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPcinjski.private.md) 
+
+### [Pcinjski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPcinjski.personal.md) 
+
+### [Pcinjski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPcinjski.secret.md)
 

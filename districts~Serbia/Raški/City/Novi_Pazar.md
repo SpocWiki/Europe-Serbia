@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Novi_Pazar|Novi_Pazar]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Novi_Pazar.public|Novi_Pazar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Novi_Pazar.internal|Novi_Pazar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Novi_Pazar.protect|Novi_Pazar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Novi_Pazar.private|Novi_Pazar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Novi_Pazar.personal|Novi_Pazar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Novi_Pazar.secret|Novi_Pazar.secret]] 
+
+### [Novi_Pazar.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Raški\CityNovi_Pazar.public.md) 
+
+### [Novi_Pazar.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Raški\CityNovi_Pazar.internal.md) 
+
+### [Novi_Pazar.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Raški\CityNovi_Pazar.protect.md) 
+
+### [Novi_Pazar.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Raški\CityNovi_Pazar.private.md) 
+
+### [Novi_Pazar.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Raški\CityNovi_Pazar.personal.md) 
+
+### [Novi_Pazar.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Raški\CityNovi_Pazar.secret.md)
+

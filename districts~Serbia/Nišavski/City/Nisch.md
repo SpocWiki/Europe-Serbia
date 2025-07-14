@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Nisch|Nisch]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Nisch.public|Nisch.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Nisch.internal|Nisch.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Nisch.protect|Nisch.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Nisch.private|Nisch.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Nisch.personal|Nisch.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Nisch.secret|Nisch.secret]] 
+
+### [Nisch.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Nišavski\CityNisch.public.md) 
+
+### [Nisch.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Nišavski\CityNisch.internal.md) 
+
+### [Nisch.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Nišavski\CityNisch.protect.md) 
+
+### [Nisch.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Nišavski\CityNisch.private.md) 
+
+### [Nisch.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Nišavski\CityNisch.personal.md) 
+
+### [Nisch.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Nišavski\CityNisch.secret.md)
+

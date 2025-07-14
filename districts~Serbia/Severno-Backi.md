@@ -40,11 +40,16 @@ markerFolder: ./Severno-Backi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi|Severno-Backi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi.public|Severno-Backi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi.internal|Severno-Backi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi.protect|Severno-Backi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi.private|Severno-Backi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi.personal|Severno-Backi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Backi.secret|Severno-Backi.secret]] 
+
+### [Severno-Backi.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSeverno-Backi.public.md) 
+
+### [Severno-Backi.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSeverno-Backi.internal.md) 
+
+### [Severno-Backi.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSeverno-Backi.protect.md) 
+
+### [Severno-Backi.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSeverno-Backi.private.md) 
+
+### [Severno-Backi.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSeverno-Backi.personal.md) 
+
+### [Severno-Backi.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSeverno-Backi.secret.md)
 

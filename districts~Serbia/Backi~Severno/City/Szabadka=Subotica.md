@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Szabadka=Subotica|Szabadka=Subotica]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Szabadka=Subotica.public|Szabadka=Subotica.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Szabadka=Subotica.internal|Szabadka=Subotica.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Szabadka=Subotica.protect|Szabadka=Subotica.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Szabadka=Subotica.private|Szabadka=Subotica.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Szabadka=Subotica.personal|Szabadka=Subotica.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Szabadka=Subotica.secret|Szabadka=Subotica.secret]] 
+
+### [Szabadka=Subotica.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySzabadka=Subotica.public.md) 
+
+### [Szabadka=Subotica.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySzabadka=Subotica.internal.md) 
+
+### [Szabadka=Subotica.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySzabadka=Subotica.protect.md) 
+
+### [Szabadka=Subotica.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySzabadka=Subotica.private.md) 
+
+### [Szabadka=Subotica.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySzabadka=Subotica.personal.md) 
+
+### [Szabadka=Subotica.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Backi~Severno\CitySzabadka=Subotica.secret.md)
+

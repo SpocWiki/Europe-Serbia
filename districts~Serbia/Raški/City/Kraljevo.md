@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraljevo|Kraljevo]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraljevo.public|Kraljevo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraljevo.internal|Kraljevo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraljevo.protect|Kraljevo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraljevo.private|Kraljevo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraljevo.personal|Kraljevo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraljevo.secret|Kraljevo.secret]] 
+
+### [Kraljevo.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Raški\CityKraljevo.public.md) 
+
+### [Kraljevo.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Raški\CityKraljevo.internal.md) 
+
+### [Kraljevo.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Raški\CityKraljevo.protect.md) 
+
+### [Kraljevo.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Raški\CityKraljevo.private.md) 
+
+### [Kraljevo.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Raški\CityKraljevo.personal.md) 
+
+### [Kraljevo.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Raški\CityKraljevo.secret.md)
+

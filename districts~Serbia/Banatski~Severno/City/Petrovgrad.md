@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Petrovgrad|Petrovgrad]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Petrovgrad.public|Petrovgrad.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Petrovgrad.internal|Petrovgrad.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Petrovgrad.protect|Petrovgrad.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Petrovgrad.private|Petrovgrad.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Petrovgrad.personal|Petrovgrad.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Petrovgrad.secret|Petrovgrad.secret]] 
+
+### [Petrovgrad.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CityPetrovgrad.public.md) 
+
+### [Petrovgrad.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CityPetrovgrad.internal.md) 
+
+### [Petrovgrad.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CityPetrovgrad.protect.md) 
+
+### [Petrovgrad.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CityPetrovgrad.private.md) 
+
+### [Petrovgrad.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CityPetrovgrad.personal.md) 
+
+### [Petrovgrad.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Severno\CityPetrovgrad.secret.md)
+

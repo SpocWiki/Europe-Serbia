@@ -40,11 +40,16 @@ markerFolder: ./Severno-Banatski/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Banatski|Severno-Banatski]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Banatski.public|Severno-Banatski.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Banatski.internal|Severno-Banatski.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Banatski.protect|Severno-Banatski.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Banatski.private|Severno-Banatski.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Banatski.personal|Severno-Banatski.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Severno-Banatski.secret|Severno-Banatski.secret]] 
+
+### [Severno-Banatski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSeverno-Banatski.public.md) 
+
+### [Severno-Banatski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSeverno-Banatski.internal.md) 
+
+### [Severno-Banatski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSeverno-Banatski.protect.md) 
+
+### [Severno-Banatski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSeverno-Banatski.private.md) 
+
+### [Severno-Banatski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSeverno-Banatski.personal.md) 
+
+### [Severno-Banatski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaSeverno-Banatski.secret.md)
 

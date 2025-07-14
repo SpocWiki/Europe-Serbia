@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Weisskirchen|Weisskirchen]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Weisskirchen.public|Weisskirchen.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Weisskirchen.internal|Weisskirchen.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Weisskirchen.protect|Weisskirchen.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Weisskirchen.private|Weisskirchen.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Weisskirchen.personal|Weisskirchen.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Weisskirchen.secret|Weisskirchen.secret]] 
+
+### [Weisskirchen.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWeisskirchen.public.md) 
+
+### [Weisskirchen.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWeisskirchen.internal.md) 
+
+### [Weisskirchen.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWeisskirchen.protect.md) 
+
+### [Weisskirchen.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWeisskirchen.private.md) 
+
+### [Weisskirchen.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWeisskirchen.personal.md) 
+
+### [Weisskirchen.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWeisskirchen.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Pirotski/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia/Counties/Pirotski|Pirotski]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Serbia/Counties/Pirotski.public|Pirotski.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia/Counties/Pirotski.internal|Pirotski.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia/Counties/Pirotski.protect|Pirotski.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Serbia/Counties/Pirotski.private|Pirotski.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia/Counties/Pirotski.personal|Pirotski.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia/Counties/Pirotski.secret|Pirotski.secret]] 
+
+### [Pirotski.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPirotski.public.md) 
+
+### [Pirotski.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPirotski.internal.md) 
+
+### [Pirotski.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPirotski.protect.md) 
+
+### [Pirotski.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPirotski.private.md) 
+
+### [Pirotski.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPirotski.personal.md) 
+
+### [Pirotski.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~SerbiaPirotski.secret.md)
 

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Werschetz|Werschetz]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Werschetz.public|Werschetz.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Werschetz.internal|Werschetz.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Werschetz.protect|Werschetz.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Werschetz.private|Werschetz.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Werschetz.personal|Werschetz.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Werschetz.secret|Werschetz.secret]] 
+
+### [Werschetz.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWerschetz.public.md) 
+
+### [Werschetz.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWerschetz.internal.md) 
+
+### [Werschetz.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWerschetz.protect.md) 
+
+### [Werschetz.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWerschetz.private.md) 
+
+### [Werschetz.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWerschetz.personal.md) 
+
+### [Werschetz.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CityWerschetz.secret.md)
+

@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Smedenova=Semendria|Smedenova=Semendria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Smedenova=Semendria.public|Smedenova=Semendria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Smedenova=Semendria.internal|Smedenova=Semendria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Smedenova=Semendria.protect|Smedenova=Semendria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Smedenova=Semendria.private|Smedenova=Semendria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Smedenova=Semendria.personal|Smedenova=Semendria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Smedenova=Semendria.secret|Smedenova=Semendria.secret]] 
+
+### [Smedenova=Semendria.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CitySmedenova=Semendria.public.md) 
+
+### [Smedenova=Semendria.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CitySmedenova=Semendria.internal.md) 
+
+### [Smedenova=Semendria.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CitySmedenova=Semendria.protect.md) 
+
+### [Smedenova=Semendria.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CitySmedenova=Semendria.private.md) 
+
+### [Smedenova=Semendria.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CitySmedenova=Semendria.personal.md) 
+
+### [Smedenova=Semendria.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Banatski~Južno\CitySmedenova=Semendria.secret.md)
+

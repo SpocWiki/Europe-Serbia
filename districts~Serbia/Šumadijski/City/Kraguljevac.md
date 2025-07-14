@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraguljevac|Kraguljevac]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraguljevac.public|Kraguljevac.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraguljevac.internal|Kraguljevac.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraguljevac.protect|Kraguljevac.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraguljevac.private|Kraguljevac.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraguljevac.personal|Kraguljevac.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~South/Yugoslavia/City/Kraguljevac.secret|Kraguljevac.secret]] 
+
+### [Kraguljevac.public](/_public/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Šumadijski\CityKraguljevac.public.md) 
+
+### [Kraguljevac.internal](/_internal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Šumadijski\CityKraguljevac.internal.md) 
+
+### [Kraguljevac.protect](/_protect/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Šumadijski\CityKraguljevac.protect.md) 
+
+### [Kraguljevac.private](/_private/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Šumadijski\CityKraguljevac.private.md) 
+
+### [Kraguljevac.personal](/_personal/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Šumadijski\CityKraguljevac.personal.md) 
+
+### [Kraguljevac.secret](/_secret/\Earth\Continent\Europe\Europe~South\Serbia\districts~Serbia\Šumadijski\CityKraguljevac.secret.md)
+

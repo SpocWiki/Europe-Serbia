@@ -134,10 +134,16 @@ excluding [[Kosovo]]!
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~South/Serbia|Serbia]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~South/Serbia.public|Serbia.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~South/Serbia.internal|Serbia.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~South/Serbia.protect|Serbia.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~South/Serbia.private|Serbia.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~South/Serbia.personal|Serbia.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~South/Serbia.secret|Serbia.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~South\SerbiaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~South\SerbiaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~South\SerbiaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~South\SerbiaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~South\SerbiaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~South\SerbiaReadMe.secret.md)
+
