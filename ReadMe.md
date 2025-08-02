@@ -118,7 +118,7 @@ markerFolder: .//
 [Area-Land::] 
 Continent :: [[Europe]]  
 [VehicleCode::SRB] 
-Capital :: [[Beograd]]  
+Capital :: [[districts~Serbia/Beograd]]  
 ![[Coat_of_arms_of_Serbia.svg|350]] 
 ![[Anthem-Serbia.mp3]] 
 ![[Flag_of_Serbia.svg|350]] 
