@@ -1,38 +1,39 @@
 ---
 location:
-- 44.82
-- 20.48
+  - 44.82
+  - 20.48
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 4938
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Serbia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Serbia
-- Serbie
-- صربيا
-- 塞尔维亚
-- Сербия
-- the Republic of Serbia
-- la República de Serbia
+  - Serbia
+  - Serbie
+  - صربيا
+  - 塞尔维亚
+  - Сербия
+  - the Republic of Serbia
+  - la República de Serbia
 Languages:
-- sr
-- hu
-- bs
-- rom
+  - sr
+  - hu
+  - bs
+  - rom
 ---
 
 
