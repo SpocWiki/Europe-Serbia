@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Srednje-Banatski
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Srednje-Banatski/
 markerFolder: ./Srednje-Banatski/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Severno-Backi
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Severno-Backi/
 markerFolder: ./Severno-Backi/

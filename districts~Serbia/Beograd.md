@@ -40,7 +40,7 @@ id: Beograd
 coordinates: [[Beograd]] 
 markerFile: [[Beograd]] 
 defaultZoom: 11 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Grad_Beograd/
 markerFolder: ./Grad_Beograd/

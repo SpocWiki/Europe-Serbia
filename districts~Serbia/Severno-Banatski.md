@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Severno-Banatski
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Severno-Banatski/
 markerFolder: ./Severno-Banatski/

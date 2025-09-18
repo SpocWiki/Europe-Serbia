@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Zapadno-Backi
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Zapadno-Backi/
 markerFolder: ./Zapadno-Backi/

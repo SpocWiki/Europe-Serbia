@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Južno-Backi
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Južno-Backi/
 markerFolder: ./Južno-Backi/
