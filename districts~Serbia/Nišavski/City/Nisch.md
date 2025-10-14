@@ -21,7 +21,7 @@ State ::
 Country :: [[../../../../Yugoslavia]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

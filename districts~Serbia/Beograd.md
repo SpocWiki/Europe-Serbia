@@ -32,7 +32,7 @@ State ::
 Country :: [[../../Serbia]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
