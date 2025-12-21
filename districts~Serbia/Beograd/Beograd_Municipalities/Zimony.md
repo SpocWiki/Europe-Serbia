@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Zemun
+  - Zimony
 location:
   - 44.83
   - 20.43
@@ -12,8 +15,6 @@ tags:
 SpocWebEntityId: 35836
 isDeleted: false
 confidential: public
-aliases:
-  - Zemun
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

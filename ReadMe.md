@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Serbia
+  - Serbie
+  - صربيا
+  - 塞尔维亚
+  - Сербия
+  - the Republic of Serbia
+  - la República de Serbia
+  - ReadMe
 location:
   - 44.82
   - 20.48
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Serbia
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Serbia
-  - Serbie
-  - صربيا
-  - 塞尔维亚
-  - Сербия
-  - the Republic of Serbia
-  - la República de Serbia
+publishDate: ''
+expiryDate: ''
 Languages:
   - sr
   - hu

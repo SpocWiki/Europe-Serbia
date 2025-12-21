@@ -1,58 +1,58 @@
 ---
 aliases:
   - Slobodan_Milošević
-  - Slobodan Milošević 
+  - Slobodan Milošević
   - Слободан Милошевић
 has_id_wikidata: Q47139
-RIA_Novosti_reference: "44218331"
+RIA_Novosti_reference: 44218331
 Krugosvet_article_archived_: istoriya/MILOSHEVICH_SLOBODAN.html
 Libris_URI: zw9cffnh3xpzl3k
 nickname: Slobo
 name_in_native_language: Слободан Милошевић
-occupation: "[[_Standards/WikiData/WD~politician,82955]]"
+occupation: '[[_Standards/WikiData/WD~politician,82955]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Socialist_Federal_Republic_of_Yugoslavia,83286]]"
-  - "[[_Standards/WikiData/WD~Federal_Republic_of_Yugoslavia,838261]]"
-  - "[[_Standards/WikiData/WD~Serbia_and_Montenegro,37024]]"
-place_of_burial: "[[_Standards/WikiData/WD~Požarevac,199942]]"
-place_of_birth: "[[_Standards/WikiData/WD~Požarevac,199942]]"
-spouse: "[[_Standards/WikiData/WD~Mira_Marković,257211]]"
+  - '[[_Standards/WikiData/WD~Socialist_Federal_Republic_of_Yugoslavia,83286]]'
+  - '[[_Standards/WikiData/WD~Federal_Republic_of_Yugoslavia,838261]]'
+  - '[[_Standards/WikiData/WD~Serbia_and_Montenegro,37024]]'
+place_of_burial: '[[_Standards/WikiData/WD~Požarevac,199942]]'
+place_of_birth: '[[_Standards/WikiData/WD~Požarevac,199942]]'
+spouse: '[[_Standards/WikiData/WD~Mira_Marković,257211]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~Anti_bureaucratic_revolution,574965]]"
-  - "[[_Standards/WikiData/WD~death_of_Slobodan_Milošević,5247536]]"
+  - '[[_Standards/WikiData/WD~Anti_bureaucratic_revolution,574965]]'
+  - '[[_Standards/WikiData/WD~death_of_Slobodan_Milošević,5247536]]'
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~League_of_Communists_of_Yugoslavia,641691]]"
-  - "[[_Standards/WikiData/WD~Socialist_Party_of_Serbia,752521]]"
-place_of_death: "[[_Standards/WikiData/WD~Scheveningen,837211]]"
+  - '[[_Standards/WikiData/WD~League_of_Communists_of_Yugoslavia,641691]]'
+  - '[[_Standards/WikiData/WD~Socialist_Party_of_Serbia,752521]]'
+place_of_death: '[[_Standards/WikiData/WD~Scheveningen,837211]]'
 position_held:
-  - "[[_Standards/WikiData/WD~President_of_Serbia,889830]]"
-  - "[[_Standards/WikiData/WD~President_of_Yugoslavia,24944203]]"
+  - '[[_Standards/WikiData/WD~President_of_Serbia,889830]]'
+  - '[[_Standards/WikiData/WD~President_of_Yugoslavia,24944203]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Belgrade_Faculty_of_Law,1517780]]"
-  - "[[_Standards/WikiData/WD~Požarevac_Gymnasium,7237171]]"
-child: "[[_Standards/WikiData/WD~Marko_Milošević,2201966]]"
-given_name: "[[_Standards/WikiData/WD~Slobodan,2294349]]"
+  - '[[_Standards/WikiData/WD~University_of_Belgrade_Faculty_of_Law,1517780]]'
+  - '[[_Standards/WikiData/WD~Požarevac_Gymnasium,7237171]]'
+child: '[[_Standards/WikiData/WD~Marko_Milošević,2201966]]'
+given_name: '[[_Standards/WikiData/WD~Slobodan,2294349]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_Labour,2671735]]"
-  - "[[_Standards/WikiData/WD~Q100296857,100296857]]"
-  - "[[_Standards/WikiData/WD~Q100296954,100296954]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Republika_Srpska,33684]]"
-father: "[[_Standards/WikiData/WD~Svetozar_Milošević,2869507]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sibling: "[[_Standards/WikiData/WD~Borislav_Milošević,4293730]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Milošević,21512168]]"
+  - '[[_Standards/WikiData/WD~Order_of_Labour,2671735]]'
+  - '[[_Standards/WikiData/WD~Q100296857,100296857]]'
+  - '[[_Standards/WikiData/WD~Q100296954,100296954]]'
+  - '[[_Standards/WikiData/WD~Order_of_the_Republika_Srpska,33684]]'
+father: '[[_Standards/WikiData/WD~Svetozar_Milošević,2869507]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Eastern_Orthodoxy,3333484]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sibling: '[[_Standards/WikiData/WD~Borislav_Milošević,4293730]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Milošević,21512168]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]"
+  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+  - '[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Serbian,9299]]"
-native_language: "[[_Standards/WikiData/WD~Serbian,9299]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-ISNI: "0000000121401346"
+  - '[[_Standards/WikiData/WD~English,1860]]'
+  - '[[_Standards/WikiData/WD~Serbian,9299]]'
+native_language: '[[_Standards/WikiData/WD~Serbian,9299]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+ISNI: 0000000121401346
 Commons_category: Slobodan Milošević
 Commons_gallery: Slobodan Milošević
 BHCL_UUID: 0bc505e5-28e8-4f93-95f8-8205e442cd28
@@ -62,7 +62,7 @@ audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Slobodan%20Milosevic%20Signature.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Sr-SlobodanMilosevic.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stevan%20Kragujevic%2C%20Slobodan%20Milosevic%2C%20portret.jpg
-U_S_National_Archives_Identifier: "17357848"
+U_S_National_Archives_Identifier: 17357848
 ---
 
 # [[Slobodan_Milošević]] 

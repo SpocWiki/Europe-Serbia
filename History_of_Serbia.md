@@ -1,18 +1,20 @@
 ---
 aliases:
   - history of Serbia
+  - History_of_Serbia
+  - History of Serbia
 has_id_wikidata: Q223195
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Serbia,403]]"
-country: "[[_Standards/WikiData/WD~Serbia,403]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
+  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+facet_of: '[[_Standards/WikiData/WD~Serbia,403]]'
+country: '[[_Standards/WikiData/WD~Serbia,403]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fighting%20between%20Serbs%20and%20Turks%20%281847%29.jpg
-Dewey_Decimal_Classification: "949.71"
+Dewey_Decimal_Classification: 949.71
 Commons_category: History of Serbia
 ---
 

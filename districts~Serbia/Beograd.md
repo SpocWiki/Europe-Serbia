@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Belgrade
+  - Belgrad
+  - Beograd
+has_id_wikidata: Q3711
 location:
   - 44.82
   - 20.48
@@ -13,11 +18,6 @@ license: CC BY-SA 4.0
 SpocWebEntityId: 29085
 isDeleted: false
 confidential: public
-aliases:
-  - Belgrade
-  - Belgrad
-  - Beograd
-has_id_wikidata: Q3711
 ---
 
 # [[Beograd]] 
