@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35557
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.3
+dv_has_place_latitude: 45.1
+dv_name: Werschetz
+dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.3] 
-[has_place_latitude::45.1] 
-[name::Werschetz] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Werschetz](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz|Werschetz]] 
 
-### [Werschetz.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.public|Werschetz.public]] 
 
-### [Werschetz.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.internal|Werschetz.internal]] 
 
-### [Werschetz.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.protect|Werschetz.protect]] 
 
-### [Werschetz.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.private|Werschetz.private]] 
 
-### [Werschetz.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.personal|Werschetz.personal]] 
 
-### [Werschetz.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Werschetz.secret|Werschetz.secret]] 
 

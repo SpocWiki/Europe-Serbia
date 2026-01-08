@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34703
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.67
+dv_has_place_latitude: 46.1
+dv_name: Szabadka=Subotica
+dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.67] 
-[has_place_latitude::46.1] 
-[name::Szabadka=Subotica] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Szabadka=Subotica](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica|Szabadka=Subotica]] 
 
-### [Szabadka=Subotica.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.public|Szabadka=Subotica.public]] 
 
-### [Szabadka=Subotica.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.internal|Szabadka=Subotica.internal]] 
 
-### [Szabadka=Subotica.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.protect|Szabadka=Subotica.protect]] 
 
-### [Szabadka=Subotica.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.private|Szabadka=Subotica.private]] 
 
-### [Szabadka=Subotica.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.personal|Szabadka=Subotica.personal]] 
 
-### [Szabadka=Subotica.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Severno/City/Szabadka=Subotica.secret|Szabadka=Subotica.secret]] 
 

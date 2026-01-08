@@ -40,17 +40,17 @@ markerFolder: ./Jablanicki/
 
 ## Confidential Links & Embeds: 
 
-### [Jablanicki](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki|Jablanicki]] 
 
-### [Jablanicki.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.public|Jablanicki.public]] 
 
-### [Jablanicki.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.internal|Jablanicki.internal]] 
 
-### [Jablanicki.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.protect|Jablanicki.protect]] 
 
-### [Jablanicki.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.private|Jablanicki.private]] 
 
-### [Jablanicki.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.personal|Jablanicki.personal]] 
 
-### [Jablanicki.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Jablanicki.secret|Jablanicki.secret]] 
 

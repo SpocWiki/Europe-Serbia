@@ -40,17 +40,17 @@ markerFolder: ./Toplicki/
 
 ## Confidential Links & Embeds: 
 
-### [Toplicki](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki|Toplicki]] 
 
-### [Toplicki.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.public|Toplicki.public]] 
 
-### [Toplicki.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.internal|Toplicki.internal]] 
 
-### [Toplicki.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.protect|Toplicki.protect]] 
 
-### [Toplicki.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.private|Toplicki.private]] 
 
-### [Toplicki.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.personal|Toplicki.personal]] 
 
-### [Toplicki.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Toplicki.secret|Toplicki.secret]] 
 

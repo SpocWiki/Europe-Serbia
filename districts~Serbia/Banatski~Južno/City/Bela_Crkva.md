@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 29076
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.42
+dv_has_place_latitude: 44.9
+dv_name: Bela Crkva
+dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.42] 
-[has_place_latitude::44.9] 
-[name::Bela Crkva] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bela_Crkva](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva|Bela_Crkva]] 
 
-### [Bela_Crkva.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.public|Bela_Crkva.public]] 
 
-### [Bela_Crkva.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.internal|Bela_Crkva.internal]] 
 
-### [Bela_Crkva.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.protect|Bela_Crkva.protect]] 
 
-### [Bela_Crkva.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.private|Bela_Crkva.private]] 
 
-### [Bela_Crkva.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.personal|Bela_Crkva.personal]] 
 
-### [Bela_Crkva.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Bela_Crkva.secret|Bela_Crkva.secret]] 
 

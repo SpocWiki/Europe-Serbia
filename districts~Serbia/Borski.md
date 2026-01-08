@@ -40,17 +40,17 @@ markerFolder: ./Borski/
 
 ## Confidential Links & Embeds: 
 
-### [Borski](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski|Borski]] 
 
-### [Borski.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.public|Borski.public]] 
 
-### [Borski.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.internal|Borski.internal]] 
 
-### [Borski.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.protect|Borski.protect]] 
 
-### [Borski.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.private|Borski.private]] 
 
-### [Borski.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.personal|Borski.personal]] 
 
-### [Borski.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski.secret|Borski.secret]] 
 

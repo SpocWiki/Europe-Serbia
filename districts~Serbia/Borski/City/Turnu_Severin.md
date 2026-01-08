@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 35056
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.67
+dv_has_place_latitude: 44.63
+dv_name: Turnu Severin
+dv_Country: "[[../../../../../Europe~East/Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.67] 
-[has_place_latitude::44.63] 
-[name::Turnu Severin] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Turnu_Severin](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin|Turnu_Severin]] 
 
-### [Turnu_Severin.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.public|Turnu_Severin.public]] 
 
-### [Turnu_Severin.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.internal|Turnu_Severin.internal]] 
 
-### [Turnu_Severin.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.protect|Turnu_Severin.protect]] 
 
-### [Turnu_Severin.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.private|Turnu_Severin.private]] 
 
-### [Turnu_Severin.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.personal|Turnu_Severin.personal]] 
 
-### [Turnu_Severin.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Borski/City/Turnu_Severin.secret|Turnu_Severin.secret]] 
 

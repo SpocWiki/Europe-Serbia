@@ -15,14 +15,19 @@ tags:
 SpocWebEntityId: 32973
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.52
+dv_has_place_latitude: 43.13
+dv_name: Novi Pazar
+dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.52] 
-[has_place_latitude::43.13] 
-[name::Novi Pazar] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -39,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Novi_Pazar](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar|Novi_Pazar]] 
 
-### [Novi_Pazar.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.public|Novi_Pazar.public]] 
 
-### [Novi_Pazar.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.internal|Novi_Pazar.internal]] 
 
-### [Novi_Pazar.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.protect|Novi_Pazar.protect]] 
 
-### [Novi_Pazar.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.private|Novi_Pazar.private]] 
 
-### [Novi_Pazar.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.personal|Novi_Pazar.personal]] 
 
-### [Novi_Pazar.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Raški/City/Novi_Pazar.secret|Novi_Pazar.secret]] 
 

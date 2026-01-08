@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34203
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.1
+dv_has_place_latitude: 45.95
+dv_name: Senta
+dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.1] 
-[has_place_latitude::45.95] 
-[name::Senta] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Senta](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta|Senta]] 
 
-### [Senta.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.public|Senta.public]] 
 
-### [Senta.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.internal|Senta.internal]] 
 
-### [Senta.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.protect|Senta.protect]] 
 
-### [Senta.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.private|Senta.private]] 
 
-### [Senta.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.personal|Senta.personal]] 
 
-### [Senta.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Severno/City/Senta.secret|Senta.secret]] 
 

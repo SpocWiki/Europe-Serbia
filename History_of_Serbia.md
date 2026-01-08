@@ -5,22 +5,25 @@ aliases:
   - History of Serbia
 has_id_wikidata: Q223195
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-facet_of: '[[_Standards/WikiData/WD~Serbia,403]]'
-country: '[[_Standards/WikiData/WD~Serbia,403]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_Europe,7787]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Serbia,403]]"
+country: "[[_Standards/WikiData/WD~Serbia,403]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_Europe,7787]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fighting%20between%20Serbs%20and%20Turks%20%281847%29.jpg
 Dewey_Decimal_Classification: 949.71
 Commons_category: History of Serbia
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Serbia,223195|WD~History_of_Serbia,223195]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Serbia,223195|WD~History_of_Serbia,223195]]"
 ---
 
 # [[History_of_Serbia]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~History_of_Serbia,223195|WD~History_of_Serbia,223195]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -70,4 +73,21 @@ Commons_category: History of Serbia
 > following the breakup of a short-lived union with Montenegro.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Serbia) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/History_of_Serbia|History_of_Serbia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/History_of_Serbia.public|History_of_Serbia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/History_of_Serbia.internal|History_of_Serbia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/History_of_Serbia.protect|History_of_Serbia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/History_of_Serbia.private|History_of_Serbia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/History_of_Serbia.personal|History_of_Serbia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/History_of_Serbia.secret|History_of_Serbia.secret]] 
 

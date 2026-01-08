@@ -40,17 +40,17 @@ markerFolder: ./Podunavski/
 
 ## Confidential Links & Embeds: 
 
-### [Podunavski](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski|Podunavski]] 
 
-### [Podunavski.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.public|Podunavski.public]] 
 
-### [Podunavski.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.internal|Podunavski.internal]] 
 
-### [Podunavski.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.protect|Podunavski.protect]] 
 
-### [Podunavski.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.private|Podunavski.private]] 
 
-### [Podunavski.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.personal|Podunavski.personal]] 
 
-### [Podunavski.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Podunavski.secret|Podunavski.secret]] 
 

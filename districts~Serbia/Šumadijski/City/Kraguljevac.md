@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31609
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 20.9
+dv_has_place_latitude: 44.02
+dv_name: Kraguljevac
+dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::20.9] 
-[has_place_latitude::44.02] 
-[name::Kraguljevac] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kraguljevac](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac|Kraguljevac]] 
 
-### [Kraguljevac.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.public|Kraguljevac.public]] 
 
-### [Kraguljevac.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.internal|Kraguljevac.internal]] 
 
-### [Kraguljevac.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.protect|Kraguljevac.protect]] 
 
-### [Kraguljevac.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.private|Kraguljevac.private]] 
 
-### [Kraguljevac.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.personal|Kraguljevac.personal]] 
 
-### [Kraguljevac.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Šumadijski/City/Kraguljevac.secret|Kraguljevac.secret]] 
 

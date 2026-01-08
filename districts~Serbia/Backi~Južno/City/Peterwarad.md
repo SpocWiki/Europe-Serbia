@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33328
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 19.87
+dv_has_place_latitude: 45.25
+dv_name: Peterwarad
+dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::19.87] 
-[has_place_latitude::45.25] 
-[name::Peterwarad] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Peterwarad](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad|Peterwarad]] 
 
-### [Peterwarad.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.public|Peterwarad.public]] 
 
-### [Peterwarad.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.internal|Peterwarad.internal]] 
 
-### [Peterwarad.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.protect|Peterwarad.protect]] 
 
-### [Peterwarad.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.private|Peterwarad.private]] 
 
-### [Peterwarad.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.personal|Peterwarad.personal]] 
 
-### [Peterwarad.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Backi~Južno/City/Peterwarad.secret|Peterwarad.secret]] 
 

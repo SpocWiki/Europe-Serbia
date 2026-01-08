@@ -40,17 +40,17 @@ markerFolder: ./Pomoravski/
 
 ## Confidential Links & Embeds: 
 
-### [Pomoravski](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski|Pomoravski]] 
 
-### [Pomoravski.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.public|Pomoravski.public]] 
 
-### [Pomoravski.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.internal|Pomoravski.internal]] 
 
-### [Pomoravski.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.protect|Pomoravski.protect]] 
 
-### [Pomoravski.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.private|Pomoravski.private]] 
 
-### [Pomoravski.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.personal|Pomoravski.personal]] 
 
-### [Pomoravski.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Pomoravski.secret|Pomoravski.secret]] 
 

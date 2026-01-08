@@ -40,17 +40,17 @@ markerFolder: ./Severno-Backi/
 
 ## Confidential Links & Embeds: 
 
-### [Severno-Backi](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi|Severno-Backi]] 
 
-### [Severno-Backi.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.public|Severno-Backi.public]] 
 
-### [Severno-Backi.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.internal|Severno-Backi.internal]] 
 
-### [Severno-Backi.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.protect|Severno-Backi.protect]] 
 
-### [Severno-Backi.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.private|Severno-Backi.private]] 
 
-### [Severno-Backi.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.personal|Severno-Backi.personal]] 
 
-### [Severno-Backi.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Severno-Backi.secret|Severno-Backi.secret]] 
 

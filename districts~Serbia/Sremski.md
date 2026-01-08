@@ -40,17 +40,17 @@ markerFolder: ./Sremski/
 
 ## Confidential Links & Embeds: 
 
-### [Sremski](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski|Sremski]] 
 
-### [Sremski.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.public|Sremski.public]] 
 
-### [Sremski.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.internal|Sremski.internal]] 
 
-### [Sremski.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.protect|Sremski.protect]] 
 
-### [Sremski.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.private|Sremski.private]] 
 
-### [Sremski.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.personal|Sremski.personal]] 
 
-### [Sremski.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Sremski.secret|Sremski.secret]] 
 

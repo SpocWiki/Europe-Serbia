@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 35519
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 21.42
+dv_has_place_latitude: 44.9
+dv_name: Weisskirchen
+dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::21.42] 
-[has_place_latitude::44.9] 
-[name::Weisskirchen] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weisskirchen](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen|Weisskirchen]] 
 
-### [Weisskirchen.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.public|Weisskirchen.public]] 
 
-### [Weisskirchen.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.internal|Weisskirchen.internal]] 
 
-### [Weisskirchen.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.protect|Weisskirchen.protect]] 
 
-### [Weisskirchen.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.private|Weisskirchen.private]] 
 
-### [Weisskirchen.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.personal|Weisskirchen.personal]] 
 
-### [Weisskirchen.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Banatski~Južno/City/Weisskirchen.secret|Weisskirchen.secret]] 
 

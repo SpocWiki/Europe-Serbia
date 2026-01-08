@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31516
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 22.27
+dv_has_place_latitude: 43.57
+dv_name: Knjazevac
+dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::22.27] 
-[has_place_latitude::43.57] 
-[name::Knjazevac] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Yugoslavia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Knjazevac](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac|Knjazevac]] 
 
-### [Knjazevac.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.public|Knjazevac.public]] 
 
-### [Knjazevac.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.internal|Knjazevac.internal]] 
 
-### [Knjazevac.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.protect|Knjazevac.protect]] 
 
-### [Knjazevac.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.private|Knjazevac.private]] 
 
-### [Knjazevac.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.personal|Knjazevac.personal]] 
 
-### [Knjazevac.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Zajecarski/City/Knjazevac.secret|Knjazevac.secret]] 
 

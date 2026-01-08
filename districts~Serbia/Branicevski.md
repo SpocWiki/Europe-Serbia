@@ -40,17 +40,17 @@ markerFolder: ./Branicevski/
 
 ## Confidential Links & Embeds: 
 
-### [Branicevski](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski|Branicevski]] 
 
-### [Branicevski.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.public|Branicevski.public]] 
 
-### [Branicevski.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.internal|Branicevski.internal]] 
 
-### [Branicevski.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.protect|Branicevski.protect]] 
 
-### [Branicevski.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.private|Branicevski.private]] 
 
-### [Branicevski.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.personal|Branicevski.personal]] 
 
-### [Branicevski.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Branicevski.secret|Branicevski.secret]] 
 

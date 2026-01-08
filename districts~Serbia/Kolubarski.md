@@ -40,17 +40,17 @@ markerFolder: ./Kolubarski/
 
 ## Confidential Links & Embeds: 
 
-### [Kolubarski](/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski|Kolubarski]] 
 
-### [Kolubarski.public](/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.public|Kolubarski.public]] 
 
-### [Kolubarski.internal](/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.internal|Kolubarski.internal]] 
 
-### [Kolubarski.protect](/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.protect|Kolubarski.protect]] 
 
-### [Kolubarski.private](/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.private|Kolubarski.private]] 
 
-### [Kolubarski.personal](/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.personal|Kolubarski.personal]] 
 
-### [Kolubarski.secret](/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Serbia/districts~Serbia/Kolubarski.secret|Kolubarski.secret]] 
 
