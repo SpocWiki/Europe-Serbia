@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.67
 dv_has_place_latitude: 43.7
-dv_name: Kraljevo
+dv_has_name_: Kraljevo
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.43
 dv_has_place_latitude: 44.83
-dv_name: Zimony
+dv_has_name_: Zimony
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

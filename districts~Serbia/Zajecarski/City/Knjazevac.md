@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 22.27
 dv_has_place_latitude: 43.57
-dv_name: Knjazevac
+dv_has_name_: Knjazevac
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

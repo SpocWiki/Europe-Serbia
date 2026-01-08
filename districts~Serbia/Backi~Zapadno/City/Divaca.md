@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.97
 dv_has_place_latitude: 45.68
-dv_name: Divaca
+dv_has_name_: Divaca
 dv_Country: "[[../../../../Italy]]"
 ---
 #is_a_/Place  

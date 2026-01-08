@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.37
 dv_has_place_latitude: 45.38
-dv_name: Petrovgrad
+dv_has_name_: Petrovgrad
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

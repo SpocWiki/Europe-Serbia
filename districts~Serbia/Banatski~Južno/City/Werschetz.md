@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.3
 dv_has_place_latitude: 45.1
-dv_name: Werschetz
+dv_has_name_: Werschetz
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

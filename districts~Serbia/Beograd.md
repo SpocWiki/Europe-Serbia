@@ -21,7 +21,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.48
 dv_has_place_latitude: 44.82
-dv_name: Beograd
+dv_has_name_: Beograd
 dv_Country: "[[../../Serbia]]"
 dv_is_:
   same_as: "[[../../../../../../WikiData/WD~Belgrade,3711|WD~Belgrade,3711]]"

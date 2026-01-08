@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.73
 dv_has_place_latitude: 44.75
-dv_name: Sabac
+dv_has_name_: Sabac
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

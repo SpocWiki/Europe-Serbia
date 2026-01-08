@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.75
 dv_has_place_latitude: 44.73
-dv_name: Marano
+dv_has_name_: Marano
 dv_Country: "[[../../../../Italy]]"
 ---
 #is_a_/Place  

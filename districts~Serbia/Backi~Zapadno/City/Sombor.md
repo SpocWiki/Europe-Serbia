@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.13
 dv_has_place_latitude: 45.78
-dv_name: Sombor
+dv_has_name_: Sombor
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

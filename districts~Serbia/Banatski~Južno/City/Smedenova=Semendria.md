@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 20.87
 dv_has_place_latitude: 44.67
-dv_name: Smedenova=Semendria
+dv_has_name_: Smedenova=Semendria
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

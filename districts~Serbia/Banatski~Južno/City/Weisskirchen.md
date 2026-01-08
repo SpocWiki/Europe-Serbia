@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.42
 dv_has_place_latitude: 44.9
-dv_name: Weisskirchen
+dv_has_name_: Weisskirchen
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

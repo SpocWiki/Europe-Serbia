@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 21.85
 dv_has_place_latitude: 43.32
-dv_name: Nisch
+dv_has_name_: Nisch
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  

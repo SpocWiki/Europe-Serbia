@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 19.68
 dv_has_place_latitude: 46.07
-dv_name: Subotica
+dv_has_name_: Subotica
 dv_Country: "[[../../../../Yugoslavia]]"
 ---
 #is_a_/Place  
