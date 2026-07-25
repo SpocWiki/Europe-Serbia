@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 塞尔维亚共和国
 dv_UNTERM_French_Formal: la République de Serbie
 dv_UNTERM_Russian: Сербия
 dv_UNTERM_Russian_Formal: Республика Сербия
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Serbia]]'
 dv_Sub-region_Name: '[[Southern Europe]]'
 dv_Region: 150
@@ -52,7 +52,7 @@ dv_ISO2: RS
 dv_ISO3: SRB
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Serbia,403|WD~Serbia,403]]'
+  - '[[../../../../../WikiData/WD~Serbia,403|WD~Serbia,403]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~South/Serbia|Serbia]]'
   - '[[/_public/Earth/Continent/Europe/Europe~South/Serbia.public|Serbia.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~South/Serbia.internal|Serbia.internal]]'
@@ -383,16 +383,16 @@ dv_has_:
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Serbia
 dv_has_name_de: Serbien
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: SRB
-dv_Capital: '[[Serbia/districts~Serbia/Beograd|Beograd]]'
+dv_Capital: '[[districts~Serbia/Beograd|Beograd]]'
 dv_Alcohol-l: 11.1
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 20.48
 dv_has_place_latitude: 44.82
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[../../../../../WikiData/WD~Serbia,403|WD~Serbia,403]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~South/Serbia|Serbia]]'
 - '[[/_public/Earth/Continent/Europe/Europe~South/Serbia.public|Serbia.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~South/Serbia.internal|Serbia.internal]]'
@@ -567,7 +567,7 @@ Languages:
 - rom
 icon: flag-rs
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
@@ -743,7 +743,7 @@ head_of_state: '[[/_Standards/WikiData/WD~Aleksandar_Vučić,222031|WD~Aleksanda
 history_of_topic: '[[/_Standards/WikiData/WD~history_of_Serbia,223195|WD~history_of_Serbia,223195]]'
 described_by_source:
 - '[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
 - '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
@@ -1046,7 +1046,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Serbia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -1066,7 +1066,7 @@ defaultZoom: 6
 
 ```leaflet
 id: Spain_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1092,7 +1092,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Serbia.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Serbia.mp3|Anthem-Serbia.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Serbia.mp3|Anthem-Serbia.mp3]]
 ![[Flag_of_Serbia.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
